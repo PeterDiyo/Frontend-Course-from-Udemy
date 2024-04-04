@@ -1,0 +1,48 @@
+
+h1{
+     font-size: 400%;
+
+}
+
+.outerbox{
+    background-color: #198A00;
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    top: 200px;
+
+}
+
+img{
+    border-radius: 50%;
+    width: 270px;
+    height: 270px;
+    position: relative;
+    left: 310px;
+}
+
+.c{
+    display: flex;
+    position: absolute;
+    top: 190px;
+    left: 300px;
+}
+
+.innerbs{
+    background-color: red;
+    width: 100px;
+    height: 210px;
+}
+
+#inner{
+    background-color: black;
+    width: 100px;
+    height: 210px;
+}
+
+#in{
+    background-color: orange;
+    width: 100px;
+    height: 210px;
+}
+
